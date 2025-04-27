@@ -1,0 +1,1 @@
+When you enter ticker at any cell, it displays the current price, rate of change, PER, and market capitalization below it. (The pykrx library only supports KOSPI and KOSDAQ.) (ticker should be str not int)
